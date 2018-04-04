@@ -1,4 +1,4 @@
-               { siteList: [
+               [
                     {
                         name: "互联网",
                         feedUrl: "http://www.yixieshi.com/feed",
@@ -64,4 +64,4 @@
                     //     articleList: []
                     // },
 
-                ]}
+                ]
